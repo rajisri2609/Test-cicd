@@ -11,7 +11,6 @@ function App() {
          
         >
           Learning CI/CD on AWS for React App
-          Dinh Thanh Dat
         </a>
       </header>
     </div>
